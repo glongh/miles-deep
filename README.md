@@ -1,5 +1,5 @@
 
-#Miles Deep - AI Porn Video Editor
+#Miles Deep - AI Adult Video Editor
 
 Using a deep convolutional neural network with residual connections, Miles Deep quickly classifies each second of a pornographic video into 6 categories based on sexual act with 95% accuracy. Then it uses that classification to automatically edit the video. It can remove all the scenes not containing sexual contact, or edit out just a specific act.
 
